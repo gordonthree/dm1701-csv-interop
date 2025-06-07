@@ -1,5 +1,5 @@
 # VHF and UHF frequencies from the National Interoperability Field Operations Guide
-## Doesn't include the 700-800mhz freqs, or any digital channels
+## Doesn't include the 700-800mhz freqs, or any P25 digital channels
 
 Mostly copy-pasta from the guide, tried to preserve CTCSS codes where indicated in the guide.
 
