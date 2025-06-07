@@ -1,0 +1,153 @@
+Channel Number,Channel Name,Channel Type,Rx Frequency,Tx Frequency,Bandwidth (kHz),Colour Code,Timeslot,Contact,TG List,DMR ID,TS1_TA_Tx,TS2_TA_Tx ID,RX Tone,TX Tone,Squelch,Power,Rx Only,Zone Skip,All Skip,TOT,VOX,No Beep,No Eco,APRS,Latitude,Longitude,Use Location
+1,Bancroft Mi5-BAN,Digital,"	443.31250","	448.31250",,1,1,None,MI5 DMR,None,Off,Off,,,,Master,No,No,No,150,Off,No,No,None,0,0,Yes
+2,Bay City Mi5-BAY,Digital,"	443.81250","	448.81250",,1,1,None,MI5 DMR,None,Off,Off,,,,Master,No,No,No,150,Off,No,No,None,0,0,Yes
+3,Burnside Mi5-BRN,Digital,"	443.11250","	448.11250",,1,1,None,MI5 DMR,None,Off,Off,,,,Master,No,No,No,150,Off,No,No,None,0,0,Yes
+4,Byron Center Mi5,Digital,"	444.62500","	449.62500",,1,1,None,MI5 DMR,None,Off,Off,,,,Master,No,No,No,150,Off,No,No,None,0,0,Yes
+5,Cass City Mi5-CA,Digital,"	442.08750","	447.08750",,1,1,None,MI5 DMR,None,Off,Off,,,,Master,No,No,No,150,Off,No,No,None,0,0,Yes
+6,Dansville Mi5-DA,Digital,"	444.70000","	449.70000",,1,1,None,MI5 DMR,None,Off,Off,,,,Master,No,No,No,150,Off,No,No,None,0,0,Yes
+7,Detroit Mi5-DET,Digital,"	444.00000","	449.00000",,1,1,None,MI5 DMR,None,Off,Off,,,,Master,No,No,No,150,Off,No,No,None,0,0,Yes
+8,Fenton Mi5-FEN,Digital,"	443.92500","	448.92500",,1,1,None,MI5 DMR,None,Off,Off,,,,Master,No,No,No,150,Off,No,No,None,0,0,Yes
+9,Frankenmuth Mi5-,Digital,"	444.25000","	449.25000",,1,1,None,MI5 DMR,None,Off,Off,,,,Master,No,No,No,150,Off,No,No,None,0,0,Yes
+10,Grand Haven Mi5,Digital,"	443.60000","	448.60000",,1,1,None,MI5 DMR,None,Off,Off,,,,Master,No,No,No,180,Off,No,No,None,0,0,Yes
+11,Grand Rapids Mi5,Digital,"	444.25000","	449.25000",,1,1,None,MI5 DMR,None,Off,Off,,,,Master,No,No,No,150,Off,No,No,None,0,0,Yes
+12,Grass Lake Mi5-G,Digital,"	443.81250","	448.81250",,1,1,None,MI5 DMR,None,Off,Off,,,,Master,No,No,No,150,Off,No,No,None,0,0,Yes
+13,Greenville Mi5-G,Digital,"	443.38750","	448.38750",,1,1,None,MI5 DMR,None,Off,Off,,,,Master,No,No,No,150,Off,No,No,None,0,0,Yes
+14,Hackleburg Mi5-H,Digital,"	442.08750","	447.08750",,1,1,None,MI5 DMR,None,Off,Off,,,,Master,No,No,No,150,Off,No,No,None,0,0,Yes
+15,Hamilton Mi5-HAM,Digital,"	443.92500","	448.92500",,1,1,None,MI5 DMR,None,Off,Off,,,,Master,No,No,No,150,Off,No,No,None,0,0,Yes
+16,James TWP Mi5-JA,Digital,"	443.60000","	448.60000",,1,1,None,MI5 DMR,None,Off,Off,,,,Master,No,No,No,150,Off,No,No,None,0,0,Yes
+17,Lansing Mi5-LAN,Digital,"	442.08750","	447.08750",,1,1,None,MI5 DMR,None,Off,Off,,,,Master,No,No,No,150,Off,No,No,None,0,0,Yes
+18,Lincoln Mi5-LIN,Digital,"	442.01250","	447.01250",,1,1,None,MI5 DMR,None,Off,Off,,,,Master,No,No,No,150,Off,No,No,None,0,0,Yes
+19,Lowell Mi5-LOW,Digital,"	443.11250","	448.11250",,1,1,None,MI5 DMR,None,Off,Off,,,,Master,No,No,No,150,Off,No,No,None,0,0,Yes
+20,Mayville Mi5-MAY,Digital,"	443.85000","	448.85000",,1,1,None,MI5 DMR,None,Off,Off,,,,Master,No,No,No,150,Off,No,No,None,0,0,Yes
+21,Midland Mi5-MID,Digital,"	443.95000","	448.95000",,1,1,None,MI5 DMR,None,Off,Off,,,,Master,No,No,No,150,Off,No,No,None,0,0,Yes
+22,Milan Mi5-MIL,Digital,"	443.11250","	448.11250",,1,1,None,MI5 DMR,None,Off,Off,,,,Master,No,No,No,150,Off,No,No,None,0,0,Yes
+23,Mio Mi5-MIO,Digital,"	444.70000","	449.70000",,1,1,None,MI5 DMR,None,Off,Off,,,,Master,No,No,No,150,Off,No,No,None,0,0,Yes
+24,Muskegon Mi5-MKG,Digital,"	444.95000","	449.95000",,1,1,None,MI5 DMR,None,Off,Off,,,,Master,No,No,No,150,Off,No,No,None,0,0,Yes
+25,Morley Mi5-MOR,Digital,"	442.21250","	447.21250",,1,1,None,MI5 DMR,None,Off,Off,,,,Master,No,No,No,150,Off,No,No,None,0,0,Yes
+26,Mt.Clemens Mi5-M,Digital,"	443.95000","	448.95000",,1,1,None,MI5 DMR,None,Off,Off,,,,Master,No,No,No,150,Off,No,No,None,0,0,Yes
+27,Novi Mi5-NVI,Digital,"	442.21250","	447.21250",,1,1,None,MI5 DMR,None,Off,Off,,,,Master,No,No,No,150,Off,No,No,None,0,0,Yes
+28,Pinconning Mi5-P,Digital,"	444.62500","	449.62500",,1,1,None,MI5 DMR,None,Off,Off,,,,Master,No,No,No,150,Off,No,No,None,0,0,Yes
+29,Southgate Mi5-SG,Digital,"	443.32500","	448.32500",,1,1,None,MI5 DMR,None,Off,Off,,,,Master,No,No,No,150,Off,No,No,None,0,0,Yes
+30,Shepherd Mi5-SHP,Digital,"	442.01250","	447.01250",,1,1,None,MI5 DMR,None,Off,Off,,,,Master,No,No,No,150,Off,No,No,None,0,0,Yes
+31,West Olive Mi5-F,Digital,"	443.57500","	448.57500",,1,1,None,MI5 DMR,None,Off,Off,,,,Master,No,No,No,150,Off,No,No,None,0,0,Yes
+32,FRS 01,Analogue,"	462.56250","	462.56250",25,,,,,,,,None,67,Disabled,Master,No,No,No,0,Off,No,No,None,0,0.008,No
+33,FRS 02,Analogue,"	462.58750","	462.58750",25,,,,,,,,None,67,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+34,FRS 03,Analogue,"	462.61250","	462.61250",25,,,,,,,,None,67,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+35,FRS 04,Analogue,"	462.63750","	462.63750",25,,,,,,,,None,67,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+36,FRS 05,Analogue,"	462.66250","	462.66250",25,,,,,,,,None,67,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+37,FRS 06,Analogue,"	462.68750","	462.68750",25,,,,,,,,None,67,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+38,FRS 07,Analogue,"	462.71250","	462.71250",25,,,,,,,,None,67,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+39,FRS 08,Analogue,"	467.56250","	467.56250",12.5,,,,,,,,None,67,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+40,FRS 09,Analogue,"	467.58750","	467.58750",12.5,,,,,,,,None,67,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+41,FRS 10,Analogue,"	467.61250","	467.61250",12.5,,,,,,,,None,67,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+42,FRS 11,Analogue,"	467.63750","	467.63750",12.5,,,,,,,,None,67,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+43,FRS 12,Analogue,"	467.66250","	467.66250",12.5,,,,,,,,None,67,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+44,FRS 13,Analogue,"	467.68750","	467.68750",12.5,,,,,,,,None,67,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+45,FRS 14,Analogue,"	467.71250","	467.71250",12.5,,,,,,,,None,67,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+46,FRS 15,Analogue,"	462.55000","	462.55000",25,,,,,,,,None,67,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+47,FRS 16,Analogue,"	462.57500","	462.57500",25,,,,,,,,None,67,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+48,FRS 17,Analogue,"	462.60000","	462.60000",25,,,,,,,,None,67,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+49,FRS 18,Analogue,"	462.62500","	462.62500",25,,,,,,,,None,67,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+50,FRS 19,Analogue,"	462.65000","	462.65000",25,,,,,,,,None,67,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+51,FRS 20,Analogue,"	462.67500","	462.67500",25,,,,,,,,None,67,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+52,FRS 21,Analogue,"	462.70000","	462.70000",25,,,,,,,,None,67,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+53,FRS 22,Analogue,"	462.72500","	462.72500",25,,,,,,,,None,67,Disabled,Master,No,No,No,0,Off,No,No,None,0,0,No
+54,NWR 162.400,Analogue,"	162.40000","	162.40000",12.5,,,,,,,,None,None,Disabled,Master,Yes,No,No,180,Off,No,No,None,0,0.008,No
+55,NWR 162.425,Analogue,"	162.42500","	162.42500",12.5,,,,,,,,None,None,Disabled,Master,Yes,No,No,0,Off,No,No,None,0,0,No
+56,NWR 162.450,Analogue,"	162.45000","	162.45000",12.5,,,,,,,,None,None,Disabled,Master,Yes,No,No,0,Off,No,No,None,0,0,No
+57,NWR 162.475,Analogue,"	162.47500","	162.47500",12.5,,,,,,,,None,None,Disabled,Master,Yes,No,No,0,Off,No,No,None,0,0,No
+58,NWR 162.500,Analogue,"	162.50000","	162.50000",12.5,,,,,,,,None,None,Disabled,Master,Yes,No,No,0,Off,No,No,None,0,0,No
+59,NWR 162.525,Analogue,"	162.52500","	162.52500",12.5,,,,,,,,None,None,Disabled,Master,Yes,No,No,0,Off,No,No,None,0,0,No
+60,NWR 162.550,Analogue,"	162.55000","	162.55000",12.5,,,,,,,,None,None,15%,Master,Yes,No,No,0,Off,No,No,None,0,0,No
+61,MURS 1 C,Analogue,"	151.82000","	151.82000",12.5,,,,,,,,None,None,15%,Master,No,No,No,0,Off,No,No,None,0,0,No
+62,MURS 2 S,Analogue,"	151.88000","	151.88000",12.5,,,,,,,,None,None,15%,Master,No,No,No,0,Off,No,No,None,0,0,No
+63,MURS 3 E,Analogue,"	151.94000","	151.94000",12.5,,,,,,,,None,None,15%,Master,No,No,No,0,Off,No,No,None,0,0,No
+64,MURS 4 BLU,Analogue,"	154.57000","	154.57000",25,,,,,,,,None,None,15%,Master,No,No,No,0,Off,No,No,None,0,0,No
+65,MURS 5 GRN,Analogue,"	154.60000","	154.60000",25,,,,,,,,None,None,15%,Master,No,No,No,0,Off,No,No,None,0,0,No
+66,VCALL10,Analogue,"	155.75250","	155.75250",12.5,,,,,,,,156.7,156.7,Disabled,Master,No,No,No,180,Off,No,No,None,0,0,No
+67,VTAC11,Analogue,"	151.13750","	151.13750",12.5,,,,,,,,156.7,156.7,Disabled,Master,No,No,No,180,Off,No,No,None,0,0,No
+68,VTAC12,Analogue,"	154.45250","	154.45250",12.5,,,,,,,,156.7,156.7,Disabled,Master,No,No,No,180,Off,No,No,None,0,0,No
+69,VTAC13,Analogue,"	158.73750","	158.73750",12.5,,,,,,,,156.7,156.7,Disabled,Master,No,No,No,180,Off,No,No,None,0,0,No
+70,VTAC14,Analogue,"	159.47250","	159.47250",12.5,,,,,,,,156.7,156.7,Disabled,Master,No,No,No,180,Off,No,No,None,0,0,No
+71,VTAC33,Analogue,"	159.47250","	151.13750",12.5,,,,,,,,156.7,136.5,Disabled,Master,No,No,No,180,Off,No,No,None,0,0,No
+72,VTAC34,Analogue,"	158.73750","	154.45250",12.5,,,,,,,,156.7,136.5,Disabled,Master,No,No,No,180,Off,No,No,None,0,0,No
+73,VTAC35,Analogue,"	159.47250","	158.73750",12.5,,,,,,,,156.7,136.5,Disabled,Master,No,No,No,180,Off,No,No,None,0,0,No
+74,VTAC36,Analogue,"	151.13750","	159.47250",12.5,,,,,,,,156.7,136.5,Disabled,Master,No,No,No,180,Off,No,No,None,0,0,No
+75,VTAC37,Analogue,"	154.45250","	158.73750",12.5,,,,,,,,156.7,136.5,Disabled,Master,No,No,No,180,Off,No,No,None,0,0,No
+76,VTAC38,Analogue,"	158.73750","	159.47250",12.5,,,,,,,,156.7,136.5,Disabled,Master,No,No,No,180,Off,No,No,None,0,0,No
+77,VTAC17,Analogue,"	161.85000","	157.25000",12.5,,,,,,,,156.7,156.7,Disabled,Master,No,No,No,180,Off,No,No,None,0,0,No
+78,VTAC17D,Analogue,"	161.85000","	161.85000",12.5,,,,,,,,156.7,156.7,Disabled,Master,No,No,No,180,Off,No,No,None,0,0,No
+79,VFIRE21,Analogue,"	154.28000","	154.28000",12.5,,,,,,,,154.2,None,Disabled,Master,No,No,No,180,Off,No,No,None,0,0,No
+80,VFIRE23,Analogue,"	154.29500","	154.29500",12.5,,,,,,,,154.2,None,Disabled,Master,No,No,No,180,Off,No,No,None,0,0,No
+81,VFIRE25,Analogue,"	154.28750","	154.28750",12.5,,,,,,,,154.2,None,Disabled,Master,No,No,No,180,Off,No,No,None,0,0,No
+82,VMED28,Analogue,"	155.34000","	155.34000",12.5,,,,,,,,None,156.7,Disabled,Master,No,No,No,180,Off,No,No,None,0,0,No
+83,VLAW31,Analogue,"	155.47500","	155.47500",12.5,,,,,,,,155.4,None,Disabled,Master,No,No,No,180,Off,No,No,None,0,0,No
+84,VSAR16,Analogue,"	155.16000","	155.16000",12.5,,,,,,,,127.3,None,Disabled,Master,No,No,No,180,Off,No,No,None,0,0,No
+85,VFIRE22,Analogue,"	154.26500","	154.26500",12.5,,,,,,,,154.2,None,Disabled,Master,No,No,No,180,Off,No,No,None,0,0,No
+86,VFIRE24,Analogue,"	154.27250","	154.27250",12.5,,,,,,,,154.2,None,Disabled,Master,No,No,No,180,Off,No,No,None,0,0,No
+87,VFIRE26,Analogue,"	154.30250","	154.30250",12.5,,,,,,,,154.3,None,Disabled,Master,No,No,No,180,Off,No,No,None,0,0,No
+88,VMED29,Analogue,"	155.34750","	155.34750",12.5,,,,,,,,155.3,None,Disabled,Master,No,No,No,180,Off,No,No,None,0,0,No
+89,VLAW32,Analogue,"	155.48250","	155.48250",12.5,,,,,,,,155.4,None,Disabled,Master,No,No,No,180,Off,No,No,None,0,0,No
+90,NC1,Analogue,"	169.53750","	164.71250",12.5,,,,,,,,None,167.9,Disabled,Master,No,No,No,180,Off,No,No,None,0,0,No
+91,IR1,Analogue,"	170.01250","	165.25000",12.5,,,,,,,,None,167.9,Disabled,Master,No,No,No,180,Off,No,No,None,0,0,No
+92,IR2,Analogue,"	170.41250","	165.96250",12.5,,,,,,,,None,167.9,Disabled,Master,No,No,No,180,Off,No,No,None,0,0,No
+93,IR3,Analogue,"	170.68750","	166.57500",12.5,,,,,,,,None,167.9,Disabled,Master,No,No,No,180,Off,No,No,None,0,0,No
+94,IR4,Analogue,"	173.03750","	167.32500",12.5,,,,,,,,None,167.9,Disabled,Master,No,No,No,180,Off,No,No,None,0,0,No
+95,IR5,Analogue,"	169.53750","	169.53750",12.5,,,,,,,,None,167.9,Disabled,Master,No,No,No,180,Off,No,No,None,0,0,No
+96,IR6,Analogue,"	170.01250","	170.01250",12.5,,,,,,,,None,167.9,Disabled,Master,No,No,No,180,Off,No,No,None,0,0,No
+97,IR7,Analogue,"	170.41250","	170.41250",12.5,,,,,,,,None,167.9,Disabled,Master,No,No,No,180,Off,No,No,None,0,0,No
+98,IR8,Analogue,"	170.68750","	170.68750",12.5,,,,,,,,None,167.9,Disabled,Master,No,No,No,180,Off,No,No,None,0,0,No
+99,IR9,Analogue,"	173.03750","	173.03750",12.5,,,,,,,,None,167.9,Disabled,Master,No,No,No,180,Off,No,No,None,0,0,No
+100,LEA,Analogue,"	167.08750","	167.08750",12.5,,,,,,,,None,167.9,Disabled,Master,No,No,No,180,Off,No,No,None,0,0,No
+101,LE1,Analogue,"	167.08750","	162.08750",12.5,,,,,,,,None,167.9,Disabled,Master,No,No,No,180,Off,No,No,None,0,0,No
+102,UCALL40,Analogue,"	453.21250","	458.21250",12.5,,,,,,,,156.7,156.7,Disabled,Master,No,No,No,180,Off,No,No,None,0,0,No
+103,UCALL40D,Analogue,"	453.21250","	453.21250",12.5,,,,,,,,156.7,156.7,Disabled,Master,No,No,No,180,Off,No,No,None,0,0,No
+104,UTAC41,Analogue,"	453.46250","	458.46250",12.5,,,,,,,,156.7,156.7,Disabled,Master,No,No,No,180,Off,No,No,None,0,0,No
+105,UTAC41D,Analogue,"	453.46250","	453.46250",12.5,,,,,,,,156.7,156.7,Disabled,Master,No,No,No,180,Off,No,No,None,0,0,No
+106,UTAC42,Analogue,"	453.71250","	458.71250",12.5,,,,,,,,156.7,156.7,Disabled,Master,No,No,No,180,Off,No,No,None,0,0,No
+107,UTAC42D,Analogue,"	453.71250","	453.71250",12.5,,,,,,,,156.7,156.7,Disabled,Master,No,No,No,180,Off,No,No,None,0,0,No
+108,UTAC43,Analogue,"	453.86250","	458.86250",12.5,,,,,,,,156.7,156.7,Disabled,Master,No,No,No,180,Off,No,No,None,0,0,No
+109,UTAC43D,Analogue,"	453.86250","	453.86250",12.5,,,,,,,,156.7,156.7,Disabled,Master,No,No,No,180,Off,No,No,None,0,0,No
+110,NC2,Analogue,"	410.23750","	419.23750",12.5,,,,,,,,None,167.9,Disabled,Master,No,No,No,180,Off,No,No,None,0,0,No
+111,IR10,Analogue,"	410.43750","	419.43750",12.5,,,,,,,,None,167.9,Disabled,Master,No,No,No,180,Off,No,No,None,0,0,No
+112,IR11,Analogue,"	410.63750","	419.63750",12.5,,,,,,,,None,167.9,Disabled,Master,No,No,No,180,Off,No,No,None,0,0,No
+113,IR12,Analogue,"	410.83750","	419.83750",12.5,,,,,,,,None,167.9,Disabled,Master,No,No,No,180,Off,No,No,None,0,0,No
+114,IR13,Analogue,"	413.18750","	413.18750",12.5,,,,,,,,None,167.9,Disabled,Master,No,No,No,180,Off,No,No,None,0,0,No
+115,IR14,Analogue,"	413.21250","	413.21250",12.5,,,,,,,,None,167.9,Disabled,Master,No,No,No,180,Off,No,No,None,0,0,No
+116,IR15,Analogue,"	410.23750","	410.23750",12.5,,,,,,,,None,167.9,Disabled,Master,No,No,No,180,Off,No,No,None,0,0,No
+117,IR16,Analogue,"	410.43750","	410.43750",12.5,,,,,,,,None,167.9,Disabled,Master,No,No,No,180,Off,No,No,None,0,0,No
+118,IR17,Analogue,"	410.63750","	410.63750",12.5,,,,,,,,None,167.9,Disabled,Master,No,No,No,180,Off,No,No,None,0,0,No
+119,IR18,Analogue,"	410.83750","	410.83750",12.5,,,,,,,,None,167.9,Disabled,Master,No,No,No,180,Off,No,No,None,0,0,No
+120,LEB,Analogue,"	414.03750","	414.03750",12.5,,,,,,,,None,167.9,Disabled,Master,No,No,No,180,Off,No,No,None,0,0,No
+121,LE10,Analogue,"	409.98750","	418.98750",12.5,,,,,,,,None,167.9,Disabled,Master,No,No,No,180,Off,No,No,None,0,0,No
+122,LE16,Analogue,"	409.98750","	409.98750",12.5,,,,,,,,None,167.9,Disabled,Master,No,No,No,180,Off,No,No,None,0,0,No
+123,MED9,Analogue,"	462.95000","	467.95000",12.5,,,,,,,,None,None,Disabled,Master,No,No,No,180,Off,No,No,None,0,0,No
+124,MED9D,Analogue,"	462.95000","	462.95000",12.5,,,,,,,,None,None,Disabled,Master,No,No,No,180,Off,No,No,None,0,0,No
+125,MED92,Analogue,"	462.96250","	467.96250",12.5,,,,,,,,None,None,Disabled,Master,No,No,No,180,Off,No,No,None,0,0,No
+126,MED92D,Analogue,"	462.96250","	462.96250",12.5,,,,,,,,None,None,Disabled,Master,No,No,No,180,Off,No,No,None,0,0,No
+127,MED10,Analogue,"	462.97500","	467.97500",12.5,,,,,,,,None,None,Disabled,Master,No,No,No,180,Off,No,No,None,0,0,No
+128,MED10D,Analogue,"	462.97500","	462.97500",12.5,,,,,,,,None,None,Disabled,Master,No,No,No,180,Off,No,No,None,0,0,No
+129,MED102,Analogue,"	462.98750","	467.98750",12.5,,,,,,,,None,None,Disabled,Master,No,No,No,180,Off,No,No,None,0,0,No
+130,MED102D,Analogue,"	462.98750","	462.98750",12.5,,,,,,,,None,None,Disabled,Master,No,No,No,180,Off,No,No,None,0,0,No
+131,MED1,Analogue,"	463.00000","	468.00000",12.5,,,,,,,,None,None,Disabled,Master,No,No,No,180,Off,No,No,None,0,0,No
+132,MED1D,Analogue,"	463.00000","	463.00000",12.5,,,,,,,,None,None,Disabled,Master,No,No,No,180,Off,No,No,None,0,0,No
+133,MED4,Analogue,"	463.07500","	468.07500",12.5,,,,,,,,None,None,Disabled,Master,No,No,No,180,Off,No,No,None,0,0,No
+134,MED4D,Analogue,"	463.07500","	463.07500",12.5,,,,,,,,None,None,Disabled,Master,No,No,No,180,Off,No,No,None,0,0,No
+135,MED42,Analogue,"	463.08750","	468.08750",12.5,,,,,,,,None,None,Disabled,Master,No,No,No,180,Off,No,No,None,0,0,No
+136,MED42D,Analogue,"	463.08750","	463.08750",12.5,,,,,,,,None,None,Disabled,Master,No,No,No,180,Off,No,No,None,0,0,No
+137,MED5,Analogue,"	463.10000","	468.10000",12.5,,,,,,,,None,None,Disabled,Master,No,No,No,180,Off,No,No,None,0,0,No
+138,MED5D,Analogue,"	463.10000","	463.10000",12.5,,,,,,,,None,None,Disabled,Master,No,No,No,180,Off,No,No,None,0,0,No
+139,MED52,Analogue,"	463.11250","	468.11250",12.5,,,,,,,,None,None,Disabled,Master,No,No,No,180,Off,No,No,None,0,0,No
+140,MED52D,Analogue,"	463.11250","	463.11250",12.5,,,,,,,,None,None,Disabled,Master,No,No,No,180,Off,No,No,None,0,0,No
+141,MED6,Analogue,"	463.12500","	468.12500",12.5,,,,,,,,None,None,Disabled,Master,No,No,No,180,Off,No,No,None,0,0,No
+142,MED6D,Analogue,"	463.12500","	463.12500",12.5,,,,,,,,None,None,Disabled,Master,No,No,No,180,Off,No,No,None,0,0,No
+143,MED62,Analogue,"	463.13750","	468.13750",12.5,,,,,,,,None,None,Disabled,Master,No,No,No,180,Off,No,No,None,0,0,No
+144,MED62D,Analogue,"	463.13750","	463.13750",12.5,,,,,,,,None,None,Disabled,Master,No,No,No,180,Off,No,No,None,0,0,No
+145,MED7,Analogue,"	463.15000","	468.15000",12.5,,,,,,,,None,None,Disabled,Master,No,No,No,180,Off,No,No,None,0,0,No
+146,MED7D,Analogue,"	463.15000","	463.15000",12.5,,,,,,,,None,None,Disabled,Master,No,No,No,180,Off,No,No,None,0,0,No
+147,MED72,Analogue,"	463.16250","	468.16250",12.5,,,,,,,,None,None,Disabled,Master,No,No,No,180,Off,No,No,None,0,0,No
+148,MED72D,Analogue,"	463.16250","	463.16250",12.5,,,,,,,,None,None,Disabled,Master,No,No,No,180,Off,No,No,None,0,0,No
+149,MED8,Analogue,"	463.17500","	468.17500",12.5,,,,,,,,None,None,Disabled,Master,No,No,No,180,Off,No,No,None,0,0,No
+150,MED8D,Analogue,"	463.17500","	463.17500",12.5,,,,,,,,None,None,Disabled,Master,No,No,No,180,Off,No,No,None,0,0,No
+151,MED82,Analogue,"	463.18750","	468.18750",12.5,,,,,,,,None,None,Disabled,Master,No,No,No,180,Off,No,No,None,0,0,No
+152,MED82D,Analogue,"	463.18750","	463.18750",12.5,,,,,,,,None,None,Disabled,Master,No,No,No,180,Off,No,No,None,0,0,No
